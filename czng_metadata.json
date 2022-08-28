@@ -1,0 +1,11 @@
+{
+	"name": "CryptoZing",
+	"description": "Crypto to fuel charities.",
+	"image": "https://ipfs.io/ipfs/Qmeeta7er3CipMiW7Q9tgnVsd496pouR1MsmwvfYTgHV4h?filename=CryptoZing_1.jpg",
+	"properties": {
+        "SerialNumber": "68164499",
+        "DollarValue": 1,
+        "GlobalGoal": "Clean Water and Sanitation",
+        "GlobalGoalNumber": 6
+	}
+}
